@@ -7,7 +7,16 @@ module.exports = function(grunt){
         jshintrc: true,
         reporter: require('jshint-stylish')
       },
-      server: ['**/*.js']
+      dev: [
+        'action/*.js',
+        'app/*.js',
+        'helper/*.js',
+        'initializer/*.js',
+        'service/*.js',
+        'task/*.js',
+        'test/*.js',
+        'translator/*.js'
+      ]
     },
     mochaTest: {
       test: {
