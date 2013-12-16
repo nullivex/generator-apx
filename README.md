@@ -1,4 +1,4 @@
-# generator-apx [![Build Status](https://secure.travis-ci.org/nullivex/generator-apx.png?branch=master)](https://travis-ci.org/nullivex/generator-apx)
+# generator-apx [![Build Status](https://secure.travis-ci.org/snailjs/generator-apx.png?branch=master)](https://travis-ci.org/snailjs/generator-apx)
 
 A generator for [Yeoman](http://yeoman.io).
 
